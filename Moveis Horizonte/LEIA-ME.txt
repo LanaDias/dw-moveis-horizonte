@@ -1,0 +1,32 @@
+MÓVEIS HORIZONTE — KIT DE TREINAMENTO DE DATA WAREHOUSE E POWER BI
+Dados inteiramente fictícios para estudo. Não representam pessoas ou empresa reais.
+
+ARQUIVOS
+- Dim_Produto.csv: catálogo de produtos, categoria, marca, material, custo e preço.
+- Dim_Cliente.csv: 500 clientes fictícios com cidade/UF e cadastro.
+- Dim_Loja.csv: 5 lojas fictícias.
+- Dim_Vendedor.csv: 15 vendedores fictícios.
+- Dim_Data.csv: calendário de 01/01/2024 a 31/12/2026.
+- Fato_Vendas.csv: itens de venda em granularidade de linha de produto (uma linha = um produto dentro de uma venda).
+- Staging_Vendas_Despadronizadas.csv: amostra de 250 linhas com formatos inconsistentes para praticar limpeza no ETL/Power Query.
+- Criar_DW_SQLServer.sql: DDL para criar as dimensões e fato no SQL Server.
+
+ORDEM SUGERIDA
+1. Importe os CSVs dimensionais e a fato no Power BI para explorar.
+2. No modo Modelo, relacione cada dimensão (1) à Fato_Vendas (*) pelas chaves correspondentes.
+3. Marque Dim_Data como tabela de datas usando a coluna Data.
+4. Para praticar ETL, limpe Staging_Vendas_Despadronizadas.csv: padronize StatusVenda e FormaPagamento, converta Quantidade para inteiro e ValorUnitario para decimal/moeda.
+5. Para praticar SQL Server, execute Criar_DW_SQLServer.sql; depois carregue dimensões antes da fato.
+6. Não some linhas canceladas como receita. Devoluções estão representadas com ValorLiquido negativo; defina uma regra consistente para os indicadores.
+
+IDEIAS DE MEDIDAS DAX
+- Faturamento = SUM(Fato_Vendas[ValorLiquido])
+- Quantidade Vendida = SUM(Fato_Vendas[Quantidade])
+- Total de Vendas = DISTINCTCOUNT(Fato_Vendas[NumeroVenda])
+- Ticket Médio = DIVIDE([Faturamento], [Total de Vendas])
+- Custo Total = SUM(Fato_Vendas[CustoTotal])
+- Lucro Bruto = [Faturamento] - [Custo Total]
+- Margem % = DIVIDE([Lucro Bruto], [Faturamento])
+
+OBSERVAÇÃO
+A dimensão de data contém nomes de meses em inglês por compatibilidade simples de geração. Você pode traduzir os nomes no Power Query ou criar uma coluna de ordenação MesNumero para ordenar MesNome.

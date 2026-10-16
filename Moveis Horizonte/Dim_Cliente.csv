@@ -1,0 +1,501 @@
+﻿ClienteID,NomeCliente,TipoCliente,Cidade,Estado,DataNascimento,Genero,DataCadastro
+1,Camila Cardoso,Pessoa Física,Anápolis,GO,1973-10-11,Masculino,2025-03-08
+2,Gabriela Fernandes,Pessoa Física,Rio Verde,GO,1986-01-23,Não informado,2024-10-29
+3,Talita Mendes,Pessoa Física,Anápolis,GO,1972-10-30,Masculino,2026-06-20
+4,Gabriela Souza,Pessoa Física,Goiânia,GO,1959-04-27,Masculino,2023-08-06
+5,Nicolas Araújo,Pessoa Física,São Paulo,SP,1960-10-25,Feminino,2023-07-31
+6,Caio Souza,Pessoa Física,Jataí,GO,2002-05-28,Masculino,2023-09-15
+7,Gustavo Souza,Pessoa Física,Anápolis,GO,1999-10-11,Não informado,2024-04-21
+8,Olivia Pereira,Pessoa Física,Belo Horizonte,MG,1989-06-25,Masculino,2024-02-17
+9,Henrique Oliveira,Pessoa Física,São Paulo,SP,1968-02-07,Não informado,2025-07-23
+10,Diego Santos,Pessoa Jurídica,Curitiba,PR,2002-10-06,Feminino,2023-03-24
+11,Camila Almeida,Pessoa Física,Rio Verde,GO,1993-05-18,Masculino,2023-03-20
+12,Gabriela Carvalho,Pessoa Física,Palmas,TO,1990-05-01,Masculino,2025-09-03
+13,Ana Carvalho,Pessoa Jurídica,Brasília,DF,1977-02-22,Masculino,2025-06-06
+14,João Araújo,Pessoa Jurídica,Londrina,PR,1968-06-01,Não informado,2022-05-15
+15,Caio Mendes,Pessoa Física,Rio Verde,GO,1959-10-02,Feminino,2024-01-30
+16,Bruno Rocha,Pessoa Física,Londrina,PR,1999-06-25,Não informado,2022-08-05
+17,Karina Santos,Pessoa Física,Jataí,GO,1977-06-17,Não informado,2025-04-11
+18,Leonardo Cardoso,Pessoa Física,Rio Verde,GO,1964-12-21,Não informado,2025-05-11
+19,Camila Costa,Pessoa Física,Goiânia,GO,1970-01-29,Não informado,2025-10-06
+20,Igor Almeida,Pessoa Física,Belo Horizonte,MG,1983-07-18,Não informado,2024-07-18
+21,Henrique Rocha,Pessoa Física,Ribeirão Preto,SP,1963-09-17,Feminino,2024-02-27
+22,Nicolas Rocha,Pessoa Física,Ribeirão Preto,SP,1997-03-20,Masculino,2022-02-03
+23,Gabriela Gomes,Pessoa Física,Anápolis,GO,1992-05-19,Feminino,2024-04-17
+24,Caio Lima,Pessoa Física,São Paulo,SP,1990-06-16,Feminino,2025-02-01
+25,Ana Barbosa,Pessoa Jurídica,Ribeirão Preto,SP,1976-04-17,Feminino,2023-06-09
+26,Camila Fernandes,Pessoa Física,Anápolis,GO,1985-11-30,Feminino,2022-08-27
+27,Leonardo Ribeiro,Pessoa Física,Palmas,TO,1983-10-14,Feminino,2022-06-10
+28,Lucas Lima,Pessoa Física,Rio Verde,GO,1987-01-10,Não informado,2024-12-04
+29,Daniela Lima,Pessoa Jurídica,Ribeirão Preto,SP,1959-02-28,Não informado,2025-07-11
+30,Rafaela Silva,Pessoa Física,Curitiba,PR,1975-06-29,Masculino,2025-08-30
+31,Leonardo Souza,Pessoa Física,Palmas,TO,1957-01-19,Feminino,2022-11-02
+32,Juliana Souza,Pessoa Física,Londrina,PR,1979-05-06,Masculino,2022-11-16
+33,João Martins,Pessoa Física,Anápolis,GO,1971-04-04,Feminino,2025-01-28
+34,Caio Nascimento,Pessoa Física,Campinas,SP,1962-02-14,Feminino,2025-02-26
+35,Camila Araújo,Pessoa Física,Cuiabá,MT,1960-02-05,Feminino,2022-10-25
+36,Karina Pereira,Pessoa Jurídica,Curitiba,PR,1983-12-17,Feminino,2025-09-10
+37,Enzo Barbosa,Pessoa Física,Campinas,SP,1963-05-29,Não informado,2023-05-25
+38,Ana Souza,Pessoa Jurídica,Goiânia,GO,2000-08-04,Não informado,2026-08-10
+39,Juliana Pereira,Pessoa Física,Campinas,SP,1983-08-21,Masculino,2024-01-30
+40,Talita Fernandes,Pessoa Física,Rio Verde,GO,1972-02-04,Feminino,2024-11-07
+41,João Ribeiro,Pessoa Jurídica,Palmas,TO,1984-02-14,Feminino,2023-05-17
+42,Juliana Ribeiro,Pessoa Física,Anápolis,GO,1956-02-15,Não informado,2022-09-15
+43,Diego Ribeiro,Pessoa Física,Campo Grande,MS,2002-03-29,Masculino,2023-12-12
+44,Vinícius Pereira,Pessoa Jurídica,Palmas,TO,1978-10-08,Feminino,2024-03-05
+45,Gustavo Costa,Pessoa Física,Palmas,TO,1993-07-29,Feminino,2022-04-21
+46,Enzo Gomes,Pessoa Jurídica,Campo Grande,MS,1959-01-29,Não informado,2023-04-14
+47,Igor Almeida,Pessoa Física,Brasília,DF,1978-12-25,Não informado,2025-02-14
+48,Diego Carvalho,Pessoa Física,Cuiabá,MT,1979-03-08,Masculino,2024-01-20
+49,Henrique Rodrigues,Pessoa Física,Cuiabá,MT,2001-03-20,Masculino,2022-10-01
+50,João Almeida,Pessoa Física,Anápolis,GO,1983-03-06,Feminino,2024-07-10
+51,Mariana Gomes,Pessoa Física,Brasília,DF,1978-05-02,Masculino,2025-10-04
+52,Lucas Cardoso,Pessoa Física,Belo Horizonte,MG,1968-02-27,Não informado,2026-06-10
+53,Karina Silva,Pessoa Física,Goiânia,GO,1971-05-05,Masculino,2024-07-15
+54,Felipe Rocha,Pessoa Física,Brasília,DF,1980-08-29,Não informado,2025-12-15
+55,Nicolas Ribeiro,Pessoa Física,Londrina,PR,1976-08-18,Masculino,2023-04-29
+56,Vinícius Cardoso,Pessoa Física,Goiânia,GO,1956-01-25,Não informado,2023-09-11
+57,Gabriela Nascimento,Pessoa Física,Jataí,GO,1995-09-21,Feminino,2022-01-17
+58,Rafaela Fernandes,Pessoa Física,Curitiba,PR,1999-03-01,Não informado,2024-07-11
+59,Enzo Rodrigues,Pessoa Física,Uberlândia,MG,1961-11-29,Não informado,2023-05-29
+60,Leonardo Gomes,Pessoa Física,Ribeirão Preto,SP,1982-04-21,Feminino,2023-06-21
+61,Enzo Lima,Pessoa Física,Campinas,SP,1960-05-08,Masculino,2025-02-06
+62,Karina Carvalho,Pessoa Física,Londrina,PR,1988-02-17,Feminino,2022-07-22
+63,Gabriela Araújo,Pessoa Jurídica,Curitiba,PR,1968-11-10,Não informado,2023-02-19
+64,Enzo Costa,Pessoa Física,Ribeirão Preto,SP,1987-07-01,Masculino,2025-05-26
+65,Samuel Silva,Pessoa Física,Brasília,DF,1990-10-29,Masculino,2026-05-15
+66,Gustavo Rocha,Pessoa Física,Ribeirão Preto,SP,1992-11-17,Masculino,2023-06-30
+67,Olivia Barbosa,Pessoa Física,Curitiba,PR,1960-04-23,Masculino,2024-11-10
+68,Gustavo Costa,Pessoa Física,Curitiba,PR,2000-02-22,Não informado,2026-07-16
+69,Caio Martins,Pessoa Física,Uberlândia,MG,1966-05-06,Feminino,2023-02-06
+70,Caio Lima,Pessoa Física,Anápolis,GO,1956-11-04,Feminino,2022-08-29
+71,Ana Santos,Pessoa Jurídica,Anápolis,GO,1982-05-06,Não informado,2024-07-18
+72,Igor Oliveira,Pessoa Física,São Paulo,SP,1973-04-12,Não informado,2023-06-11
+73,Talita Rodrigues,Pessoa Física,Londrina,PR,1995-11-23,Masculino,2024-02-22
+74,Mariana Almeida,Pessoa Física,Rio Verde,GO,1994-10-31,Feminino,2026-06-26
+75,Juliana Souza,Pessoa Física,Campo Grande,MS,1970-08-18,Feminino,2022-12-11
+76,Gustavo Cardoso,Pessoa Física,São Paulo,SP,2001-12-17,Feminino,2024-12-15
+77,Leonardo Souza,Pessoa Física,São Paulo,SP,1969-05-03,Masculino,2024-11-23
+78,Caio Cardoso,Pessoa Física,Campinas,SP,1980-05-20,Masculino,2026-03-20
+79,Vinícius Cardoso,Pessoa Física,Belo Horizonte,MG,1967-08-13,Não informado,2026-08-13
+80,Olivia Costa,Pessoa Física,Londrina,PR,2001-02-16,Masculino,2022-11-04
+81,Isabela Almeida,Pessoa Física,Cuiabá,MT,1963-02-10,Não informado,2024-06-25
+82,Pedro Almeida,Pessoa Física,Brasília,DF,1957-03-19,Não informado,2023-05-23
+83,João Almeida,Pessoa Física,Brasília,DF,1976-06-10,Não informado,2026-07-06
+84,Camila Pereira,Pessoa Física,Rio Verde,GO,2003-11-27,Não informado,2022-09-15
+85,Eduarda Rodrigues,Pessoa Física,Goiânia,GO,1998-12-11,Masculino,2022-06-04
+86,Samuel Barbosa,Pessoa Física,Belo Horizonte,MG,1991-11-22,Masculino,2025-12-08
+87,Mariana Rocha,Pessoa Física,Londrina,PR,1998-11-25,Não informado,2023-01-15
+88,Mariana Mendes,Pessoa Jurídica,Jataí,GO,1999-01-12,Masculino,2022-07-17
+89,Fernanda Carvalho,Pessoa Física,Cuiabá,MT,1980-07-27,Masculino,2024-03-09
+90,Samuel Fernandes,Pessoa Física,Campo Grande,MS,1970-07-27,Feminino,2022-02-07
+91,Pedro Almeida,Pessoa Física,Brasília,DF,1993-01-17,Feminino,2023-07-25
+92,Mariana Gomes,Pessoa Física,Curitiba,PR,1987-08-10,Masculino,2023-11-29
+93,Enzo Costa,Pessoa Física,Cuiabá,MT,1973-05-31,Feminino,2026-02-15
+94,Vinícius Fernandes,Pessoa Física,Jataí,GO,1959-08-28,Não informado,2025-06-06
+95,Talita Silva,Pessoa Física,Goiânia,GO,1991-10-21,Feminino,2023-10-08
+96,Igor Barbosa,Pessoa Física,Rio Verde,GO,1967-12-08,Masculino,2022-01-10
+97,Karina Rodrigues,Pessoa Física,São Paulo,SP,2001-03-02,Masculino,2026-05-31
+98,Isabela Araújo,Pessoa Física,Brasília,DF,1966-11-16,Masculino,2022-02-24
+99,Ana Fernandes,Pessoa Jurídica,Jataí,GO,1961-01-18,Masculino,2022-04-25
+100,Henrique Oliveira,Pessoa Jurídica,Campo Grande,MS,1995-12-17,Feminino,2026-02-25
+101,Fernanda Silva,Pessoa Física,Anápolis,GO,1962-07-22,Feminino,2025-06-23
+102,Vinícius Pereira,Pessoa Física,Anápolis,GO,1963-11-01,Não informado,2023-09-17
+103,Diego Rocha,Pessoa Física,Anápolis,GO,1984-07-15,Masculino,2025-05-08
+104,Fernanda Ribeiro,Pessoa Física,Rio Verde,GO,1998-02-06,Não informado,2022-03-18
+105,Daniela Souza,Pessoa Física,Campo Grande,MS,1964-09-05,Masculino,2023-04-22
+106,Diego Rocha,Pessoa Jurídica,Jataí,GO,1970-04-17,Não informado,2026-08-24
+107,Caio Carvalho,Pessoa Jurídica,Belo Horizonte,MG,1993-04-24,Feminino,2023-06-29
+108,Camila Rocha,Pessoa Física,Londrina,PR,2002-11-22,Feminino,2024-04-28
+109,Diego Lima,Pessoa Física,Cuiabá,MT,1979-09-05,Feminino,2024-01-08
+110,Gustavo Rocha,Pessoa Física,Campo Grande,MS,1962-02-03,Não informado,2026-05-08
+111,Nicolas Ribeiro,Pessoa Física,Goiânia,GO,1955-09-08,Masculino,2022-10-24
+112,Ana Araújo,Pessoa Física,Cuiabá,MT,1966-04-26,Masculino,2023-04-20
+113,Lucas Barbosa,Pessoa Física,Londrina,PR,1961-06-30,Feminino,2022-01-31
+114,Enzo Cardoso,Pessoa Física,Curitiba,PR,1988-05-24,Não informado,2026-07-06
+115,Fernanda Mendes,Pessoa Física,São Paulo,SP,1961-01-01,Não informado,2023-05-20
+116,Talita Nascimento,Pessoa Física,Uberlândia,MG,1979-12-14,Feminino,2026-04-26
+117,Isabela Barbosa,Pessoa Física,Anápolis,GO,1989-03-19,Não informado,2025-07-26
+118,Vinícius Carvalho,Pessoa Física,Uberlândia,MG,1983-08-22,Masculino,2023-12-10
+119,Felipe Mendes,Pessoa Física,Anápolis,GO,1964-11-04,Masculino,2026-01-09
+120,Karina Nascimento,Pessoa Física,Palmas,TO,1994-08-18,Masculino,2022-02-12
+121,Samuel Silva,Pessoa Jurídica,Campinas,SP,1990-04-04,Feminino,2022-05-24
+122,Henrique Araújo,Pessoa Física,São Paulo,SP,1991-06-02,Feminino,2025-11-05
+123,Daniela Mendes,Pessoa Física,Curitiba,PR,1961-06-17,Masculino,2024-01-08
+124,Gustavo Silva,Pessoa Física,Goiânia,GO,1961-02-05,Masculino,2024-08-22
+125,Daniela Almeida,Pessoa Física,Brasília,DF,2000-09-17,Masculino,2022-05-18
+126,Pedro Fernandes,Pessoa Física,Campinas,SP,1974-08-05,Não informado,2026-07-13
+127,Samuel Gomes,Pessoa Física,Uberlândia,MG,1969-10-31,Masculino,2022-08-13
+128,João Nascimento,Pessoa Física,Anápolis,GO,1979-01-29,Feminino,2024-05-14
+129,Karina Souza,Pessoa Física,Londrina,PR,1987-09-01,Não informado,2023-06-18
+130,Felipe Rodrigues,Pessoa Física,Anápolis,GO,2002-02-04,Masculino,2024-06-04
+131,Enzo Rocha,Pessoa Física,Campo Grande,MS,1969-02-12,Masculino,2026-06-21
+132,Diego Rodrigues,Pessoa Física,Brasília,DF,2000-07-29,Feminino,2024-04-28
+133,João Silva,Pessoa Física,Londrina,PR,1956-03-23,Masculino,2024-10-11
+134,Bruno Santos,Pessoa Física,Campinas,SP,1982-05-12,Feminino,2022-09-09
+135,Beatriz Mendes,Pessoa Física,Goiânia,GO,1986-03-30,Não informado,2025-11-30
+136,João Mendes,Pessoa Física,São Paulo,SP,1960-03-21,Feminino,2025-05-14
+137,Bruno Nascimento,Pessoa Física,Cuiabá,MT,1961-12-01,Feminino,2025-06-27
+138,Mariana Mendes,Pessoa Física,Goiânia,GO,1975-08-28,Não informado,2022-01-12
+139,Bruno Pereira,Pessoa Física,Rio Verde,GO,2002-08-14,Masculino,2022-10-10
+140,Camila Almeida,Pessoa Física,Goiânia,GO,1984-05-16,Masculino,2022-11-05
+141,Vinícius Martins,Pessoa Física,Campo Grande,MS,2000-12-24,Não informado,2025-06-09
+142,Mariana Barbosa,Pessoa Física,Palmas,TO,1994-08-22,Não informado,2024-01-05
+143,Nicolas Lima,Pessoa Física,Ribeirão Preto,SP,1978-01-12,Não informado,2024-12-14
+144,Enzo Souza,Pessoa Física,Campo Grande,MS,1993-09-03,Feminino,2025-12-10
+145,Isabela Oliveira,Pessoa Física,Rio Verde,GO,1955-11-18,Não informado,2025-02-02
+146,Camila Costa,Pessoa Física,Jataí,GO,1960-05-18,Não informado,2023-05-05
+147,Vinícius Mendes,Pessoa Física,Brasília,DF,1995-11-16,Masculino,2023-03-02
+148,Daniela Lima,Pessoa Física,Londrina,PR,1994-04-08,Feminino,2024-02-27
+149,Caio Almeida,Pessoa Física,Palmas,TO,1966-06-19,Não informado,2023-07-23
+150,Talita Rodrigues,Pessoa Física,Belo Horizonte,MG,1981-02-26,Feminino,2025-07-24
+151,Beatriz Pereira,Pessoa Física,Palmas,TO,1984-11-12,Feminino,2026-05-06
+152,Camila Santos,Pessoa Física,Rio Verde,GO,1997-10-06,Não informado,2025-07-04
+153,Enzo Rocha,Pessoa Física,Palmas,TO,1984-09-20,Feminino,2023-05-08
+154,Olivia Lima,Pessoa Física,Londrina,PR,1975-05-02,Masculino,2022-07-22
+155,Rafaela Fernandes,Pessoa Física,São Paulo,SP,1973-06-10,Não informado,2026-04-25
+156,Bruno Araújo,Pessoa Física,Londrina,PR,1975-12-27,Masculino,2022-07-13
+157,Ana Oliveira,Pessoa Jurídica,Anápolis,GO,1987-02-16,Não informado,2026-06-25
+158,Talita Silva,Pessoa Física,Campo Grande,MS,1997-10-01,Masculino,2023-04-11
+159,Talita Santos,Pessoa Física,Campo Grande,MS,1977-05-15,Masculino,2024-06-21
+160,Rafaela Barbosa,Pessoa Física,Palmas,TO,1967-03-20,Não informado,2023-04-02
+161,Nicolas Mendes,Pessoa Física,Goiânia,GO,1966-08-30,Masculino,2026-08-18
+162,Karina Gomes,Pessoa Física,Curitiba,PR,1991-10-07,Feminino,2025-11-30
+163,Karina Araújo,Pessoa Física,Londrina,PR,1995-03-30,Não informado,2026-06-19
+164,Mariana Fernandes,Pessoa Física,Jataí,GO,1960-03-10,Masculino,2026-02-07
+165,Isabela Gomes,Pessoa Jurídica,Goiânia,GO,1958-04-13,Masculino,2024-03-19
+166,Igor Cardoso,Pessoa Jurídica,Cuiabá,MT,1984-04-17,Não informado,2023-09-01
+167,Igor Fernandes,Pessoa Física,São Paulo,SP,1962-03-16,Feminino,2022-11-23
+168,Rafaela Ribeiro,Pessoa Física,Ribeirão Preto,SP,1995-08-22,Não informado,2023-06-26
+169,Olivia Santos,Pessoa Física,Anápolis,GO,1970-04-18,Feminino,2026-04-19
+170,Leonardo Lima,Pessoa Física,São Paulo,SP,1962-02-02,Masculino,2026-04-05
+171,Diego Silva,Pessoa Física,Curitiba,PR,2000-05-21,Feminino,2024-10-14
+172,Daniela Costa,Pessoa Física,Brasília,DF,1963-02-27,Não informado,2022-09-22
+173,Nicolas Oliveira,Pessoa Jurídica,Anápolis,GO,1969-01-11,Feminino,2024-09-08
+174,Olivia Souza,Pessoa Física,Curitiba,PR,1962-07-28,Masculino,2024-02-14
+175,Leonardo Lima,Pessoa Física,Campinas,SP,1960-09-09,Masculino,2024-07-07
+176,Helena Mendes,Pessoa Física,São Paulo,SP,1956-01-16,Não informado,2025-04-20
+177,Eduarda Carvalho,Pessoa Jurídica,Anápolis,GO,1957-09-24,Não informado,2022-11-28
+178,Enzo Pereira,Pessoa Física,Cuiabá,MT,1963-08-10,Masculino,2025-11-13
+179,Karina Cardoso,Pessoa Física,Brasília,DF,1957-08-18,Masculino,2023-12-31
+180,Enzo Lima,Pessoa Física,Cuiabá,MT,1984-02-18,Não informado,2024-05-27
+181,Pedro Pereira,Pessoa Física,São Paulo,SP,1988-07-18,Masculino,2025-09-27
+182,Karina Fernandes,Pessoa Física,Campo Grande,MS,1974-05-26,Masculino,2025-11-08
+183,Leonardo Gomes,Pessoa Física,Cuiabá,MT,1970-09-02,Não informado,2026-08-01
+184,Henrique Rocha,Pessoa Física,Belo Horizonte,MG,1979-11-12,Masculino,2025-06-05
+185,Bruno Gomes,Pessoa Física,Londrina,PR,1998-02-14,Masculino,2025-09-09
+186,Mariana Pereira,Pessoa Jurídica,São Paulo,SP,1996-12-11,Feminino,2024-07-01
+187,Rafaela Rocha,Pessoa Física,Uberlândia,MG,1957-02-21,Masculino,2024-04-18
+188,Diego Cardoso,Pessoa Física,Palmas,TO,1963-12-11,Não informado,2026-02-20
+189,Eduarda Araújo,Pessoa Física,Cuiabá,MT,1966-09-01,Feminino,2023-01-23
+190,Camila Mendes,Pessoa Jurídica,Campo Grande,MS,1967-04-16,Masculino,2024-12-28
+191,Vinícius Carvalho,Pessoa Física,Curitiba,PR,1983-02-25,Masculino,2026-06-02
+192,Igor Fernandes,Pessoa Jurídica,Belo Horizonte,MG,1975-07-07,Não informado,2023-04-25
+193,Daniela Mendes,Pessoa Física,Cuiabá,MT,1957-06-05,Não informado,2022-01-13
+194,Camila Almeida,Pessoa Física,Curitiba,PR,1973-05-31,Masculino,2026-04-23
+195,Henrique Oliveira,Pessoa Jurídica,Belo Horizonte,MG,1980-10-23,Não informado,2026-02-28
+196,Daniela Souza,Pessoa Física,São Paulo,SP,1960-01-05,Masculino,2022-06-08
+197,Juliana Silva,Pessoa Física,Jataí,GO,1996-01-28,Feminino,2022-07-01
+198,João Ribeiro,Pessoa Física,Uberlândia,MG,1957-07-24,Feminino,2023-11-18
+199,Rafaela Araújo,Pessoa Física,Ribeirão Preto,SP,2000-07-30,Feminino,2025-03-17
+200,Felipe Costa,Pessoa Física,Goiânia,GO,1959-11-20,Masculino,2025-11-24
+201,Vinícius Almeida,Pessoa Física,São Paulo,SP,1996-07-28,Feminino,2025-09-23
+202,Henrique Barbosa,Pessoa Física,Curitiba,PR,1999-06-26,Masculino,2023-02-12
+203,Caio Silva,Pessoa Física,Palmas,TO,2003-04-11,Masculino,2023-06-30
+204,Caio Fernandes,Pessoa Física,Rio Verde,GO,1994-07-11,Masculino,2024-09-11
+205,Talita Lima,Pessoa Jurídica,Curitiba,PR,1993-05-31,Não informado,2024-12-03
+206,Isabela Barbosa,Pessoa Física,Cuiabá,MT,1986-08-30,Masculino,2024-11-13
+207,Igor Mendes,Pessoa Física,Goiânia,GO,1993-05-22,Não informado,2025-06-10
+208,Lucas Rocha,Pessoa Jurídica,Brasília,DF,1961-08-18,Masculino,2025-11-05
+209,Ana Carvalho,Pessoa Física,Brasília,DF,1981-06-02,Não informado,2023-07-04
+210,Fernanda Santos,Pessoa Física,Palmas,TO,1980-05-05,Masculino,2026-07-02
+211,Helena Lima,Pessoa Física,Campo Grande,MS,1997-04-06,Não informado,2025-11-18
+212,Gustavo Ribeiro,Pessoa Física,Anápolis,GO,1977-10-22,Não informado,2025-08-26
+213,Isabela Pereira,Pessoa Física,Curitiba,PR,1973-12-23,Não informado,2025-03-12
+214,Beatriz Santos,Pessoa Física,Brasília,DF,1986-07-09,Feminino,2023-03-01
+215,Talita Ribeiro,Pessoa Física,Londrina,PR,1968-02-18,Masculino,2022-04-14
+216,Karina Araújo,Pessoa Física,Rio Verde,GO,1961-11-20,Não informado,2024-01-08
+217,Juliana Ribeiro,Pessoa Física,Campinas,SP,1978-07-20,Masculino,2022-10-08
+218,Helena Costa,Pessoa Física,Brasília,DF,1975-07-19,Masculino,2024-10-24
+219,Gustavo Lima,Pessoa Física,Londrina,PR,1966-06-18,Feminino,2023-07-30
+220,Olivia Oliveira,Pessoa Física,Rio Verde,GO,1973-02-10,Feminino,2024-05-08
+221,Igor Carvalho,Pessoa Física,Cuiabá,MT,1973-01-21,Masculino,2025-06-06
+222,Camila Carvalho,Pessoa Física,Jataí,GO,1971-02-20,Feminino,2024-01-08
+223,Olivia Ribeiro,Pessoa Física,Curitiba,PR,1973-09-13,Masculino,2022-11-07
+224,Talita Carvalho,Pessoa Física,Cuiabá,MT,1988-10-17,Masculino,2023-02-05
+225,Diego Almeida,Pessoa Física,São Paulo,SP,1969-08-18,Não informado,2025-09-09
+226,Karina Martins,Pessoa Física,Anápolis,GO,2001-10-05,Não informado,2025-02-14
+227,Helena Barbosa,Pessoa Física,Palmas,TO,2000-02-28,Não informado,2025-12-23
+228,Nicolas Souza,Pessoa Física,Rio Verde,GO,1978-09-13,Feminino,2025-08-02
+229,João Mendes,Pessoa Física,Goiânia,GO,1971-03-08,Não informado,2024-02-22
+230,Eduarda Carvalho,Pessoa Física,São Paulo,SP,1981-05-21,Não informado,2026-06-21
+231,Daniela Fernandes,Pessoa Física,Belo Horizonte,MG,1996-10-26,Não informado,2024-04-11
+232,Eduarda Araújo,Pessoa Física,Curitiba,PR,1987-02-28,Masculino,2022-12-11
+233,Vinícius Araújo,Pessoa Física,Brasília,DF,1994-08-23,Masculino,2024-07-29
+234,Gabriela Barbosa,Pessoa Jurídica,São Paulo,SP,1981-04-03,Masculino,2025-07-26
+235,Diego Ribeiro,Pessoa Física,Campinas,SP,1986-03-11,Não informado,2022-05-04
+236,Lucas Santos,Pessoa Física,Belo Horizonte,MG,1969-03-14,Feminino,2022-10-28
+237,Igor Barbosa,Pessoa Física,Goiânia,GO,1991-03-21,Não informado,2022-03-01
+238,Beatriz Martins,Pessoa Física,Jataí,GO,1964-12-22,Masculino,2024-10-12
+239,Henrique Pereira,Pessoa Física,Campo Grande,MS,1989-03-29,Feminino,2024-05-05
+240,Helena Fernandes,Pessoa Física,Anápolis,GO,1997-06-01,Feminino,2026-04-12
+241,Karina Pereira,Pessoa Física,Campo Grande,MS,1961-07-05,Feminino,2026-06-08
+242,Isabela Pereira,Pessoa Física,Rio Verde,GO,1985-04-11,Feminino,2024-12-17
+243,Diego Silva,Pessoa Física,Rio Verde,GO,1959-09-08,Feminino,2024-11-23
+244,Talita Gomes,Pessoa Física,Jataí,GO,1990-10-06,Feminino,2024-09-14
+245,Eduarda Araújo,Pessoa Física,Campinas,SP,1959-03-01,Feminino,2024-06-08
+246,Pedro Barbosa,Pessoa Física,Campo Grande,MS,2001-02-14,Não informado,2025-05-14
+247,Diego Barbosa,Pessoa Física,Campinas,SP,1961-10-09,Não informado,2026-06-20
+248,Bruno Cardoso,Pessoa Física,Brasília,DF,2002-04-03,Feminino,2022-10-15
+249,Bruno Mendes,Pessoa Física,Cuiabá,MT,1994-06-20,Não informado,2023-11-23
+250,Diego Mendes,Pessoa Física,Londrina,PR,1984-04-04,Feminino,2024-01-27
+251,Juliana Oliveira,Pessoa Física,Uberlândia,MG,1993-07-27,Feminino,2026-08-22
+252,Eduarda Nascimento,Pessoa Física,Ribeirão Preto,SP,1994-03-09,Não informado,2026-05-03
+253,Daniela Gomes,Pessoa Jurídica,Belo Horizonte,MG,2001-08-15,Não informado,2022-06-03
+254,João Barbosa,Pessoa Física,Campinas,SP,1967-06-27,Feminino,2025-05-12
+255,Gustavo Souza,Pessoa Física,Cuiabá,MT,1984-01-30,Não informado,2022-03-27
+256,Enzo Rodrigues,Pessoa Física,Belo Horizonte,MG,1959-09-07,Feminino,2024-06-03
+257,Nicolas Gomes,Pessoa Física,Cuiabá,MT,1985-05-13,Masculino,2022-10-13
+258,Enzo Souza,Pessoa Física,Uberlândia,MG,1963-06-11,Não informado,2022-08-08
+259,Isabela Ribeiro,Pessoa Física,Rio Verde,GO,1982-11-04,Masculino,2022-01-14
+260,Camila Oliveira,Pessoa Física,Cuiabá,MT,1983-03-18,Masculino,2024-03-20
+261,Diego Ribeiro,Pessoa Física,Campo Grande,MS,1977-12-18,Feminino,2025-02-28
+262,Talita Fernandes,Pessoa Física,Campinas,SP,1980-10-03,Feminino,2025-05-22
+263,Nicolas Ribeiro,Pessoa Física,Cuiabá,MT,1992-08-24,Masculino,2026-04-14
+264,Igor Santos,Pessoa Física,Brasília,DF,1994-05-22,Masculino,2024-05-30
+265,Diego Rocha,Pessoa Física,Campinas,SP,1979-04-03,Não informado,2023-02-05
+266,Pedro Almeida,Pessoa Física,Cuiabá,MT,1984-07-19,Não informado,2022-08-25
+267,Lucas Souza,Pessoa Física,Campo Grande,MS,2000-11-22,Feminino,2025-12-07
+268,Gustavo Araújo,Pessoa Física,Cuiabá,MT,1960-11-25,Não informado,2025-08-29
+269,Vinícius Fernandes,Pessoa Física,Jataí,GO,1960-10-08,Não informado,2025-05-11
+270,Helena Nascimento,Pessoa Física,Jataí,GO,1959-04-28,Não informado,2024-04-09
+271,Fernanda Lima,Pessoa Física,Palmas,TO,1987-06-03,Feminino,2025-05-23
+272,Felipe Pereira,Pessoa Física,Ribeirão Preto,SP,1975-08-18,Feminino,2026-04-16
+273,Eduarda Silva,Pessoa Física,Goiânia,GO,1993-02-27,Feminino,2022-12-21
+274,Mariana Araújo,Pessoa Física,São Paulo,SP,1988-01-30,Masculino,2025-05-26
+275,João Gomes,Pessoa Jurídica,Campo Grande,MS,1971-06-11,Não informado,2025-06-08
+276,Camila Santos,Pessoa Física,Rio Verde,GO,1999-04-10,Não informado,2025-10-21
+277,Bruno Oliveira,Pessoa Física,Brasília,DF,1992-07-30,Masculino,2024-12-14
+278,Pedro Martins,Pessoa Física,São Paulo,SP,1968-05-01,Feminino,2025-09-13
+279,Fernanda Cardoso,Pessoa Física,Goiânia,GO,1972-12-12,Feminino,2024-06-23
+280,João Rocha,Pessoa Física,São Paulo,SP,1970-06-30,Masculino,2023-06-17
+281,Bruno Almeida,Pessoa Jurídica,Belo Horizonte,MG,1962-10-08,Feminino,2026-06-23
+282,Ana Rodrigues,Pessoa Jurídica,Brasília,DF,1962-04-14,Feminino,2022-05-27
+283,Fernanda Nascimento,Pessoa Física,Brasília,DF,2001-02-18,Feminino,2024-08-01
+284,Pedro Araújo,Pessoa Física,Rio Verde,GO,1976-07-31,Não informado,2025-06-07
+285,Daniela Almeida,Pessoa Física,Campinas,SP,1973-11-21,Não informado,2022-08-06
+286,Gustavo Ribeiro,Pessoa Física,Goiânia,GO,1990-12-17,Não informado,2022-10-27
+287,Bruno Araújo,Pessoa Física,Jataí,GO,1982-04-02,Feminino,2026-06-02
+288,Igor Gomes,Pessoa Física,Ribeirão Preto,SP,2001-02-18,Masculino,2023-09-06
+289,Daniela Araújo,Pessoa Física,Brasília,DF,1993-06-15,Feminino,2024-11-07
+290,Karina Costa,Pessoa Jurídica,Campo Grande,MS,1978-08-16,Masculino,2022-08-26
+291,Helena Ribeiro,Pessoa Física,Goiânia,GO,1973-07-19,Feminino,2025-01-13
+292,Henrique Araújo,Pessoa Física,Ribeirão Preto,SP,2003-08-16,Feminino,2022-01-09
+293,Mariana Lima,Pessoa Física,Londrina,PR,1990-05-16,Masculino,2025-12-09
+294,Fernanda Costa,Pessoa Física,Goiânia,GO,2001-11-16,Feminino,2023-12-22
+295,Rafaela Cardoso,Pessoa Física,Anápolis,GO,1960-11-02,Masculino,2023-04-06
+296,Lucas Pereira,Pessoa Física,Anápolis,GO,1996-11-30,Masculino,2026-02-01
+297,Gabriela Costa,Pessoa Física,Ribeirão Preto,SP,1986-05-25,Não informado,2022-07-28
+298,Camila Costa,Pessoa Física,Campo Grande,MS,1961-01-03,Masculino,2024-03-23
+299,Fernanda Rocha,Pessoa Física,Campo Grande,MS,1983-12-28,Não informado,2022-02-25
+300,Leonardo Rocha,Pessoa Física,Curitiba,PR,1988-10-23,Não informado,2024-07-14
+301,Karina Gomes,Pessoa Física,Rio Verde,GO,1955-08-10,Masculino,2022-06-12
+302,Olivia Lima,Pessoa Física,Campo Grande,MS,1977-05-22,Feminino,2025-05-13
+303,Lucas Cardoso,Pessoa Física,Goiânia,GO,1995-09-05,Masculino,2024-01-04
+304,Bruno Santos,Pessoa Física,Uberlândia,MG,1969-07-22,Feminino,2026-07-05
+305,Beatriz Oliveira,Pessoa Física,Ribeirão Preto,SP,1977-08-06,Masculino,2023-06-21
+306,Olivia Rocha,Pessoa Jurídica,Campinas,SP,1976-10-18,Não informado,2022-01-21
+307,Juliana Santos,Pessoa Física,São Paulo,SP,1969-11-17,Não informado,2024-05-26
+308,Beatriz Rodrigues,Pessoa Física,Uberlândia,MG,2000-04-05,Não informado,2025-06-08
+309,Eduarda Santos,Pessoa Física,São Paulo,SP,1993-07-03,Masculino,2024-07-15
+310,Daniela Oliveira,Pessoa Física,Campinas,SP,1960-06-13,Feminino,2023-10-27
+311,Henrique Barbosa,Pessoa Física,São Paulo,SP,2004-02-19,Não informado,2022-03-17
+312,Felipe Ribeiro,Pessoa Física,Uberlândia,MG,1998-04-30,Masculino,2025-03-09
+313,Nicolas Gomes,Pessoa Física,Curitiba,PR,1968-12-28,Não informado,2025-08-15
+314,Beatriz Gomes,Pessoa Física,Goiânia,GO,1996-03-30,Não informado,2022-03-15
+315,Caio Carvalho,Pessoa Física,Brasília,DF,1960-03-30,Não informado,2025-02-05
+316,Leonardo Martins,Pessoa Física,Cuiabá,MT,2004-03-27,Feminino,2022-02-10
+317,Talita Pereira,Pessoa Física,Palmas,TO,1987-10-22,Não informado,2022-08-21
+318,Daniela Carvalho,Pessoa Física,Rio Verde,GO,1987-01-15,Feminino,2024-11-25
+319,João Fernandes,Pessoa Física,Belo Horizonte,MG,1959-06-16,Masculino,2025-03-03
+320,Helena Pereira,Pessoa Física,Curitiba,PR,1999-03-17,Não informado,2026-01-07
+321,Caio Cardoso,Pessoa Física,Goiânia,GO,1956-06-05,Masculino,2023-02-23
+322,Rafaela Ribeiro,Pessoa Física,Jataí,GO,1966-11-13,Feminino,2024-02-10
+323,Gabriela Gomes,Pessoa Física,Campo Grande,MS,1962-01-18,Feminino,2025-12-23
+324,Eduarda Pereira,Pessoa Física,Goiânia,GO,1993-04-12,Feminino,2025-10-06
+325,Rafaela Fernandes,Pessoa Física,Cuiabá,MT,1964-10-07,Não informado,2022-01-25
+326,Bruno Gomes,Pessoa Física,Palmas,TO,1999-11-17,Feminino,2023-05-07
+327,Vinícius Carvalho,Pessoa Física,Rio Verde,GO,1987-05-05,Não informado,2026-03-27
+328,Fernanda Martins,Pessoa Física,Campo Grande,MS,1956-10-12,Não informado,2022-01-10
+329,Olivia Santos,Pessoa Física,Belo Horizonte,MG,1955-04-08,Não informado,2022-09-23
+330,Henrique Barbosa,Pessoa Física,Ribeirão Preto,SP,1957-07-18,Não informado,2025-10-25
+331,Gustavo Barbosa,Pessoa Física,Anápolis,GO,1984-11-10,Masculino,2026-07-25
+332,Gustavo Mendes,Pessoa Física,Palmas,TO,1994-07-01,Masculino,2026-06-26
+333,Caio Rocha,Pessoa Física,São Paulo,SP,1966-10-03,Masculino,2023-05-05
+334,Fernanda Carvalho,Pessoa Física,Campinas,SP,1996-11-10,Feminino,2023-02-21
+335,Helena Rodrigues,Pessoa Física,Campo Grande,MS,1957-10-27,Masculino,2025-02-11
+336,Bruno Mendes,Pessoa Física,Cuiabá,MT,1994-06-22,Feminino,2026-07-04
+337,Daniela Cardoso,Pessoa Física,Cuiabá,MT,2000-09-21,Feminino,2022-07-24
+338,Fernanda Costa,Pessoa Física,Brasília,DF,1993-01-18,Não informado,2025-12-09
+339,Eduarda Araújo,Pessoa Jurídica,Goiânia,GO,1989-05-28,Feminino,2025-10-25
+340,Helena Barbosa,Pessoa Física,Palmas,TO,1996-04-18,Feminino,2024-01-30
+341,Nicolas Santos,Pessoa Física,Belo Horizonte,MG,1956-12-23,Feminino,2024-02-15
+342,Mariana Oliveira,Pessoa Física,Uberlândia,MG,1964-12-11,Masculino,2022-07-13
+343,Leonardo Souza,Pessoa Física,Cuiabá,MT,1961-02-26,Masculino,2025-03-31
+344,Gustavo Pereira,Pessoa Física,Rio Verde,GO,1979-11-12,Masculino,2024-07-06
+345,Daniela Pereira,Pessoa Física,Campo Grande,MS,1991-09-22,Masculino,2024-07-21
+346,Vinícius Silva,Pessoa Física,Palmas,TO,1986-01-18,Masculino,2022-05-27
+347,Gabriela Pereira,Pessoa Jurídica,Campinas,SP,1996-12-11,Não informado,2024-02-02
+348,Rafaela Araújo,Pessoa Física,Goiânia,GO,1962-08-25,Feminino,2025-10-14
+349,João Souza,Pessoa Física,Jataí,GO,1991-03-16,Não informado,2022-04-01
+350,Gustavo Martins,Pessoa Física,São Paulo,SP,1964-07-06,Masculino,2022-01-27
+351,Vinícius Fernandes,Pessoa Física,Jataí,GO,1968-05-05,Não informado,2022-06-19
+352,Henrique Pereira,Pessoa Física,Brasília,DF,1989-12-26,Não informado,2024-06-07
+353,Lucas Almeida,Pessoa Física,Ribeirão Preto,SP,2003-04-22,Não informado,2025-06-28
+354,Caio Oliveira,Pessoa Jurídica,Campinas,SP,1985-02-19,Feminino,2024-05-15
+355,Rafaela Fernandes,Pessoa Física,Campinas,SP,1957-09-08,Não informado,2022-04-30
+356,Samuel Silva,Pessoa Física,Belo Horizonte,MG,1985-05-16,Feminino,2022-01-08
+357,Beatriz Carvalho,Pessoa Física,Uberlândia,MG,1957-02-01,Feminino,2023-01-08
+358,Lucas Oliveira,Pessoa Física,Uberlândia,MG,1998-07-28,Não informado,2024-02-20
+359,Beatriz Souza,Pessoa Física,Campo Grande,MS,1989-12-20,Masculino,2023-12-01
+360,Eduarda Santos,Pessoa Física,Uberlândia,MG,1963-07-14,Não informado,2023-09-23
+361,Felipe Barbosa,Pessoa Física,Londrina,PR,1959-07-09,Feminino,2025-08-02
+362,Gustavo Pereira,Pessoa Física,Goiânia,GO,1964-01-17,Masculino,2023-10-02
+363,Bruno Lima,Pessoa Física,Anápolis,GO,2003-04-19,Feminino,2024-10-03
+364,Juliana Santos,Pessoa Jurídica,Uberlândia,MG,1977-08-07,Não informado,2024-07-12
+365,Mariana Fernandes,Pessoa Física,São Paulo,SP,1993-08-22,Não informado,2023-03-09
+366,Gabriela Lima,Pessoa Física,Uberlândia,MG,1986-05-13,Feminino,2026-01-23
+367,Igor Gomes,Pessoa Física,Brasília,DF,1983-03-18,Masculino,2024-01-30
+368,Nicolas Carvalho,Pessoa Física,Londrina,PR,1962-02-25,Masculino,2023-02-27
+369,Karina Costa,Pessoa Física,São Paulo,SP,2001-08-15,Masculino,2024-07-09
+370,Leonardo Cardoso,Pessoa Física,Brasília,DF,1969-11-07,Não informado,2023-12-13
+371,Nicolas Oliveira,Pessoa Física,Belo Horizonte,MG,1983-06-27,Feminino,2024-07-02
+372,Samuel Lima,Pessoa Física,Uberlândia,MG,1989-06-26,Masculino,2023-03-14
+373,Caio Lima,Pessoa Física,Brasília,DF,1986-12-30,Não informado,2024-01-23
+374,Nicolas Costa,Pessoa Física,Londrina,PR,2001-05-09,Masculino,2022-09-26
+375,Bruno Ribeiro,Pessoa Jurídica,Ribeirão Preto,SP,1962-04-25,Masculino,2024-02-24
+376,Beatriz Santos,Pessoa Física,Goiânia,GO,1980-01-20,Masculino,2025-03-20
+377,Lucas Cardoso,Pessoa Física,Campo Grande,MS,1974-11-29,Feminino,2026-04-03
+378,Ana Pereira,Pessoa Física,Cuiabá,MT,1978-05-15,Masculino,2022-08-08
+379,Bruno Pereira,Pessoa Física,Goiânia,GO,1960-11-15,Não informado,2026-07-13
+380,Lucas Ribeiro,Pessoa Jurídica,Belo Horizonte,MG,1961-08-10,Feminino,2026-05-31
+381,Vinícius Pereira,Pessoa Física,Curitiba,PR,1968-09-14,Masculino,2022-06-08
+382,Lucas Barbosa,Pessoa Física,Campo Grande,MS,1970-01-06,Feminino,2024-11-10
+383,Rafaela Ribeiro,Pessoa Física,Belo Horizonte,MG,1976-02-02,Masculino,2025-08-28
+384,Henrique Souza,Pessoa Física,Jataí,GO,1985-02-09,Masculino,2023-11-13
+385,Rafaela Carvalho,Pessoa Física,Palmas,TO,1986-04-11,Masculino,2026-07-10
+386,Fernanda Nascimento,Pessoa Física,Londrina,PR,1975-04-18,Não informado,2022-09-18
+387,João Mendes,Pessoa Física,Anápolis,GO,1975-02-23,Feminino,2025-11-29
+388,Olivia Costa,Pessoa Física,Palmas,TO,1965-09-22,Feminino,2026-06-02
+389,Gustavo Gomes,Pessoa Física,Curitiba,PR,1983-12-29,Feminino,2024-10-19
+390,Samuel Fernandes,Pessoa Física,Brasília,DF,1970-08-16,Feminino,2026-04-14
+391,Daniela Costa,Pessoa Física,Campo Grande,MS,1956-10-11,Feminino,2023-05-23
+392,Diego Rodrigues,Pessoa Física,Campo Grande,MS,1975-08-15,Masculino,2024-03-22
+393,Ana Ribeiro,Pessoa Física,Campinas,SP,1978-05-14,Masculino,2022-09-09
+394,Gustavo Fernandes,Pessoa Física,Rio Verde,GO,1966-02-12,Feminino,2022-06-11
+395,Camila Lima,Pessoa Jurídica,Belo Horizonte,MG,1983-03-19,Não informado,2023-08-20
+396,Pedro Cardoso,Pessoa Física,Belo Horizonte,MG,1982-11-18,Não informado,2024-09-29
+397,Camila Pereira,Pessoa Física,Uberlândia,MG,1989-08-06,Masculino,2024-07-18
+398,Olivia Cardoso,Pessoa Física,Uberlândia,MG,1986-12-07,Não informado,2024-09-25
+399,Beatriz Rocha,Pessoa Física,Rio Verde,GO,1987-02-25,Feminino,2024-11-14
+400,Nicolas Cardoso,Pessoa Física,Palmas,TO,1970-08-01,Feminino,2023-02-23
+401,Rafaela Pereira,Pessoa Física,Brasília,DF,1993-10-21,Masculino,2023-08-06
+402,Leonardo Almeida,Pessoa Jurídica,Uberlândia,MG,1982-01-23,Não informado,2022-12-01
+403,Juliana Lima,Pessoa Física,Cuiabá,MT,1976-04-05,Feminino,2024-06-19
+404,Beatriz Fernandes,Pessoa Física,Brasília,DF,1985-11-07,Masculino,2024-06-13
+405,Vinícius Fernandes,Pessoa Física,Goiânia,GO,1972-10-09,Feminino,2026-06-24
+406,Talita Rocha,Pessoa Física,Rio Verde,GO,1980-04-08,Não informado,2025-10-06
+407,Enzo Martins,Pessoa Física,Uberlândia,MG,1991-04-22,Não informado,2024-08-07
+408,Bruno Silva,Pessoa Física,Goiânia,GO,1998-09-07,Não informado,2022-08-07
+409,Fernanda Rocha,Pessoa Física,Brasília,DF,2000-05-23,Não informado,2025-12-16
+410,Nicolas Martins,Pessoa Física,Curitiba,PR,1979-10-27,Não informado,2025-05-31
+411,Samuel Lima,Pessoa Jurídica,Curitiba,PR,1980-08-21,Masculino,2023-04-02
+412,Henrique Carvalho,Pessoa Física,Brasília,DF,1994-06-02,Não informado,2023-02-23
+413,Bruno Costa,Pessoa Física,São Paulo,SP,1970-07-01,Masculino,2024-06-01
+414,Gabriela Gomes,Pessoa Física,Ribeirão Preto,SP,1996-04-07,Não informado,2023-10-15
+415,Karina Ribeiro,Pessoa Física,Belo Horizonte,MG,1979-05-09,Masculino,2022-03-12
+416,Rafaela Fernandes,Pessoa Física,Goiânia,GO,1960-09-16,Masculino,2022-04-06
+417,Diego Nascimento,Pessoa Física,São Paulo,SP,1958-07-21,Feminino,2026-01-16
+418,Bruno Lima,Pessoa Física,Belo Horizonte,MG,1996-06-29,Masculino,2025-10-29
+419,Henrique Costa,Pessoa Física,Cuiabá,MT,1957-09-27,Não informado,2022-05-12
+420,Enzo Gomes,Pessoa Física,Anápolis,GO,1968-10-30,Masculino,2024-08-19
+421,Rafaela Barbosa,Pessoa Física,São Paulo,SP,1971-06-20,Masculino,2024-04-08
+422,Ana Oliveira,Pessoa Física,Belo Horizonte,MG,1963-07-11,Feminino,2025-05-27
+423,Gabriela Rocha,Pessoa Física,Uberlândia,MG,1970-06-21,Masculino,2022-04-24
+424,Pedro Martins,Pessoa Física,Palmas,TO,1991-08-08,Não informado,2026-03-15
+425,Pedro Lima,Pessoa Física,Campinas,SP,1955-09-22,Feminino,2024-01-13
+426,Nicolas Pereira,Pessoa Física,Palmas,TO,1995-10-07,Masculino,2025-04-15
+427,Fernanda Carvalho,Pessoa Física,Uberlândia,MG,1997-03-18,Feminino,2023-12-07
+428,Talita Fernandes,Pessoa Física,Anápolis,GO,1973-05-06,Masculino,2025-04-20
+429,Camila Carvalho,Pessoa Física,Campinas,SP,1962-07-28,Não informado,2023-02-12
+430,Isabela Martins,Pessoa Física,Curitiba,PR,1984-08-11,Feminino,2025-02-10
+431,Diego Carvalho,Pessoa Física,Uberlândia,MG,1960-11-24,Masculino,2024-05-14
+432,Samuel Ribeiro,Pessoa Física,Campo Grande,MS,1972-12-25,Não informado,2024-05-02
+433,Rafaela Carvalho,Pessoa Física,Campinas,SP,2002-03-26,Feminino,2022-05-11
+434,Eduarda Gomes,Pessoa Física,Campo Grande,MS,2004-01-22,Masculino,2024-02-04
+435,Eduarda Martins,Pessoa Física,Palmas,TO,1993-01-18,Masculino,2023-12-23
+436,Leonardo Martins,Pessoa Física,Uberlândia,MG,1970-04-29,Não informado,2025-08-03
+437,Enzo Lima,Pessoa Física,Ribeirão Preto,SP,1988-11-20,Não informado,2022-09-02
+438,Samuel Mendes,Pessoa Física,Londrina,PR,1989-10-06,Masculino,2025-07-04
+439,Helena Silva,Pessoa Física,Uberlândia,MG,1974-02-11,Feminino,2026-04-23
+440,Nicolas Rocha,Pessoa Física,Brasília,DF,1986-08-01,Não informado,2023-07-22
+441,Igor Silva,Pessoa Física,Ribeirão Preto,SP,1955-07-13,Não informado,2025-02-21
+442,Gustavo Rocha,Pessoa Física,Ribeirão Preto,SP,1965-04-21,Feminino,2025-07-10
+443,Talita Mendes,Pessoa Física,Rio Verde,GO,1980-11-16,Não informado,2024-03-04
+444,Vinícius Carvalho,Pessoa Física,Rio Verde,GO,1963-01-26,Feminino,2025-04-24
+445,Bruno Rocha,Pessoa Física,Londrina,PR,1963-03-06,Feminino,2023-12-12
+446,Olivia Gomes,Pessoa Física,Belo Horizonte,MG,1996-03-19,Não informado,2026-04-14
+447,Gabriela Araújo,Pessoa Física,Campinas,SP,2003-09-30,Masculino,2026-06-17
+448,Igor Santos,Pessoa Física,Londrina,PR,1982-05-26,Feminino,2022-12-07
+449,Samuel Gomes,Pessoa Física,Curitiba,PR,1996-05-08,Masculino,2025-09-24
+450,Karina Costa,Pessoa Física,São Paulo,SP,2003-10-21,Masculino,2025-01-11
+451,Samuel Ribeiro,Pessoa Física,Curitiba,PR,1961-12-23,Não informado,2024-05-04
+452,Caio Nascimento,Pessoa Física,Ribeirão Preto,SP,1977-02-02,Feminino,2025-12-04
+453,Isabela Fernandes,Pessoa Física,Brasília,DF,1974-05-07,Masculino,2023-07-13
+454,Fernanda Lima,Pessoa Física,Londrina,PR,1958-12-11,Não informado,2025-11-21
+455,Pedro Gomes,Pessoa Física,São Paulo,SP,1992-03-22,Não informado,2022-03-12
+456,Isabela Lima,Pessoa Física,Goiânia,GO,1976-05-18,Não informado,2024-03-26
+457,Mariana Carvalho,Pessoa Física,Cuiabá,MT,1978-02-16,Feminino,2026-04-12
+458,João Santos,Pessoa Jurídica,Brasília,DF,1962-06-05,Feminino,2023-06-05
+459,Lucas Barbosa,Pessoa Física,Curitiba,PR,1963-12-01,Masculino,2023-02-19
+460,Gabriela Rodrigues,Pessoa Física,Cuiabá,MT,1999-09-14,Não informado,2026-05-19
+461,Daniela Nascimento,Pessoa Física,Rio Verde,GO,1957-03-14,Não informado,2024-12-10
+462,Talita Almeida,Pessoa Física,Anápolis,GO,1966-06-23,Não informado,2022-11-24
+463,Henrique Almeida,Pessoa Física,Jataí,GO,1969-05-24,Masculino,2022-11-27
+464,Daniela Mendes,Pessoa Física,Goiânia,GO,1979-02-27,Feminino,2026-08-20
+465,Ana Fernandes,Pessoa Física,Palmas,TO,1983-11-26,Não informado,2025-05-14
+466,Leonardo Mendes,Pessoa Física,São Paulo,SP,1979-04-24,Masculino,2022-01-24
+467,Karina Lima,Pessoa Física,Curitiba,PR,1959-02-23,Feminino,2023-04-03
+468,Beatriz Rocha,Pessoa Física,Anápolis,GO,1967-01-04,Não informado,2025-11-29
+469,Igor Santos,Pessoa Jurídica,Palmas,TO,1996-07-28,Masculino,2025-12-23
+470,Juliana Costa,Pessoa Física,Palmas,TO,1986-06-03,Masculino,2024-08-03
+471,Gustavo Mendes,Pessoa Jurídica,Rio Verde,GO,1986-12-28,Masculino,2023-11-23
+472,Juliana Santos,Pessoa Física,Jataí,GO,1988-01-11,Não informado,2025-09-12
+473,Diego Gomes,Pessoa Física,Brasília,DF,1992-08-06,Não informado,2024-11-09
+474,Samuel Cardoso,Pessoa Física,São Paulo,SP,1957-11-11,Feminino,2025-05-17
+475,Igor Cardoso,Pessoa Física,São Paulo,SP,1973-01-24,Feminino,2025-06-18
+476,Karina Costa,Pessoa Física,Londrina,PR,1981-08-03,Masculino,2026-02-07
+477,Daniela Costa,Pessoa Física,Jataí,GO,1971-09-06,Masculino,2026-05-03
+478,Talita Rodrigues,Pessoa Física,Rio Verde,GO,1996-08-13,Não informado,2023-07-17
+479,Juliana Carvalho,Pessoa Física,Cuiabá,MT,1978-10-13,Masculino,2024-06-22
+480,Camila Carvalho,Pessoa Física,Curitiba,PR,1992-11-17,Feminino,2025-03-17
+481,Pedro Gomes,Pessoa Física,Palmas,TO,1996-12-27,Masculino,2023-09-21
+482,Mariana Almeida,Pessoa Física,São Paulo,SP,1979-11-17,Masculino,2024-01-03
+483,João Rocha,Pessoa Física,Londrina,PR,1999-10-28,Masculino,2023-06-03
+484,Beatriz Ribeiro,Pessoa Física,Londrina,PR,1983-12-08,Não informado,2022-07-24
+485,Diego Barbosa,Pessoa Física,Brasília,DF,1996-11-25,Não informado,2023-10-16
+486,Rafaela Lima,Pessoa Física,Londrina,PR,1971-10-14,Masculino,2024-09-17
+487,Lucas Martins,Pessoa Física,Anápolis,GO,1979-08-01,Feminino,2025-12-12
+488,Pedro Pereira,Pessoa Física,São Paulo,SP,1981-03-10,Não informado,2024-05-28
+489,Lucas Araújo,Pessoa Física,Londrina,PR,1960-03-04,Masculino,2022-02-07
+490,Fernanda Fernandes,Pessoa Física,Campo Grande,MS,1974-08-22,Feminino,2026-08-24
+491,Fernanda Almeida,Pessoa Física,Curitiba,PR,2000-03-17,Feminino,2024-12-05
+492,Rafaela Barbosa,Pessoa Física,Campinas,SP,1986-02-01,Feminino,2023-10-28
+493,Leonardo Rocha,Pessoa Física,Goiânia,GO,1963-10-01,Não informado,2022-01-15
+494,Juliana Cardoso,Pessoa Física,Anápolis,GO,1971-09-13,Feminino,2023-06-22
+495,Felipe Gomes,Pessoa Física,Cuiabá,MT,1964-06-10,Feminino,2023-03-17
+496,Caio Rodrigues,Pessoa Física,Londrina,PR,1956-03-22,Feminino,2024-10-30
+497,Juliana Cardoso,Pessoa Física,São Paulo,SP,2000-09-15,Masculino,2025-03-20
+498,Eduarda Cardoso,Pessoa Física,Belo Horizonte,MG,1977-02-01,Feminino,2023-12-16
+499,Samuel Barbosa,Pessoa Física,Curitiba,PR,1970-02-26,Não informado,2022-08-31
+500,Ana Carvalho,Pessoa Física,Brasília,DF,1984-06-29,Não informado,2024-08-21

@@ -1,0 +1,64 @@
+﻿ProdutoID,NomeProduto,Categoria,Marca,Material,CustoUnitario,PrecoLista,Ativo
+1,Sofá 2 Lugares Essencial,Sofás,CasaNobre,Madeira maciça,269,484.5,Sim
+2,Sofá 2 Lugares Premium,Sofás,Conforto & Cia,MDF,1420,3034.37,Sim
+3,Sofá 2 Lugares Compacto,Sofás,CasaNobre,Estofado,264,402.69,Sim
+4,Sofá 3 Lugares Essencial,Sofás,Estilo Móveis,Metal e madeira,1291,2879.57,Sim
+5,Sofá 3 Lugares Premium,Sofás,CasaNobre,Madeira maciça,1356,2818.92,Sim
+6,Sofá 3 Lugares Compacto,Sofás,Conforto & Cia,Estofado,1398,2170.38,Sim
+7,Sofá Retrátil Essencial,Sofás,Estilo Móveis,MDF,1530,2672.36,Não
+8,Sofá Retrátil Premium,Sofás,Conforto & Cia,Metal e madeira,876,1919.68,Sim
+9,Sofá Retrátil Compacto,Sofás,CasaNobre,MDF,1433,3021.06,Não
+10,Sofá-Cama Essencial,Sofás,Madeira Viva,MDP,1201,2167.48,Sim
+11,Sofá-Cama Premium,Sofás,Conforto & Cia,MDP,876,1658.85,Sim
+12,Sofá-Cama Compacto,Sofás,CasaNobre,Metal e madeira,501,752.03,Sim
+13,Mesa de Jantar Essencial,Mesas,Madeira Viva,MDP,1561,3052.27,Sim
+14,Mesa de Jantar Premium,Mesas,CasaNobre,Metal e madeira,1510,3105.27,Sim
+15,Mesa de Jantar Compacto,Mesas,Urban Lar,Madeira maciça,1296,2885.62,Sim
+16,Mesa de Centro Essencial,Mesas,Estilo Móveis,MDP,715,1547.62,Sim
+17,Mesa de Centro Premium,Mesas,CasaNobre,Madeira maciça,1258,2019.98,Sim
+18,Mesa de Centro Compacto,Mesas,Madeira Viva,Madeira maciça,1427,2601.96,Sim
+19,Mesa Lateral Essencial,Mesas,CasaNobre,Metal e madeira,956,1504.2,Sim
+20,Mesa Lateral Premium,Mesas,Urban Lar,MDP,193,385.31,Sim
+21,Mesa Lateral Compacto,Mesas,Madeira Viva,MDP,1669,3711.87,Sim
+22,Mesa de Escritório Essencial,Mesas,Madeira Viva,Madeira maciça,1371,2345.32,Sim
+23,Mesa de Escritório Premium,Mesas,Estilo Móveis,MDF,1641,2995.88,Sim
+24,Mesa de Escritório Compacto,Mesas,Urban Lar,Metal e madeira,742,1188.37,Sim
+25,Cadeira de Jantar Essencial,Cadeiras,Estilo Móveis,MDF,897,1642.02,Sim
+26,Cadeira de Jantar Premium,Cadeiras,CasaNobre,MDF,338,551.46,Sim
+27,Cadeira de Jantar Compacto,Cadeiras,Madeira Viva,Metal e madeira,1068,1922.1,Sim
+28,Cadeira Gamer Essencial,Cadeiras,CasaNobre,MDF,1245,2634.6,Sim
+29,Cadeira Gamer Premium,Cadeiras,Conforto & Cia,Metal e madeira,1178,2002.47,Não
+30,Cadeira Gamer Compacto,Cadeiras,Urban Lar,MDF,1296,2742.09,Sim
+31,Cadeira de Escritório Essencial,Cadeiras,Conforto & Cia,MDF,851,1497.75,Sim
+32,Cadeira de Escritório Premium,Cadeiras,Estilo Móveis,Metal e madeira,1472,2473.94,Não
+33,Cadeira de Escritório Compacto,Cadeiras,Madeira Viva,MDF,522,815.26,Sim
+34,Poltrona Essencial,Cadeiras,Estilo Móveis,Metal e madeira,1266,2038.17,Sim
+35,Poltrona Premium,Cadeiras,CasaNobre,Madeira maciça,1472,3061.08,Sim
+36,Poltrona Compacto,Cadeiras,Conforto & Cia,Metal e madeira,132,261.61,Sim
+37,Cama Casal Essencial,Quartos,Urban Lar,Metal e madeira,912,1892.02,Não
+38,Cama Casal Premium,Quartos,Estilo Móveis,MDP,1304,2369.54,Sim
+39,Cama Casal Compacto,Quartos,CasaNobre,Estofado,969,1513.42,Sim
+40,Cama Queen Essencial,Quartos,Madeira Viva,Madeira maciça,1075,1657.25,Sim
+41,Cama Queen Premium,Quartos,Urban Lar,MDF,858,1567.46,Não
+42,Cama Queen Compacto,Quartos,CasaNobre,MDP,1242,2362.52,Sim
+43,Guarda-Roupa Essencial,Quartos,Estilo Móveis,Madeira maciça,253,495.32,Sim
+44,Guarda-Roupa Premium,Quartos,Estilo Móveis,Estofado,1405,2659.47,Sim
+45,Guarda-Roupa Compacto,Quartos,Conforto & Cia,MDP,272,460.54,Sim
+46,Criado-Mudo Essencial,Quartos,Estilo Móveis,Estofado,1059,1561.66,Sim
+47,Criado-Mudo Premium,Quartos,Estilo Móveis,MDP,703,1140.03,Não
+48,Criado-Mudo Compacto,Quartos,CasaNobre,Madeira maciça,853,1515.63,Sim
+49,Cômoda Essencial,Quartos,Madeira Viva,MDF,1787,2925.59,Sim
+50,Cômoda Premium,Quartos,Conforto & Cia,Estofado,1553,2324.29,Sim
+51,Cômoda Compacto,Quartos,CasaNobre,Metal e madeira,1557,2623.35,Sim
+52,Estante Essencial,Armazenamento,Estilo Móveis,MDF,592,1171.88,Sim
+53,Estante Premium,Armazenamento,Urban Lar,Estofado,332,689.6,Sim
+54,Estante Compacto,Armazenamento,Madeira Viva,Estofado,1055,2090.43,Não
+55,Rack para TV Essencial,Armazenamento,Conforto & Cia,Estofado,807,1695.68,Sim
+56,Rack para TV Premium,Armazenamento,Madeira Viva,Metal e madeira,802,1270.03,Sim
+57,Rack para TV Compacto,Armazenamento,Urban Lar,Estofado,681,1036.51,Não
+58,Aparador Essencial,Armazenamento,CasaNobre,MDF,158,320.41,Sim
+59,Aparador Premium,Armazenamento,CasaNobre,MDP,1290,2036.93,Sim
+60,Aparador Compacto,Armazenamento,Estilo Móveis,Estofado,895,1656.5,Sim
+61,Armário Multiuso Essencial,Armazenamento,Estilo Móveis,MDF,1695,3401.96,Sim
+62,Armário Multiuso Premium,Armazenamento,CasaNobre,Madeira maciça,375,677.6,Sim
+63,Armário Multiuso Compacto,Armazenamento,CasaNobre,Madeira maciça,399,674.79,Sim
